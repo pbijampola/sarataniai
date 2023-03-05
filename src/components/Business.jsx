@@ -23,7 +23,7 @@ const FeatureCard = ({ icon, title, content, index }) => (
 const Business = () =>  (
   
   // className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6`}
-  <section id="features" className={layout.section}>
+  <section id="services" className={layout.section}>
     <div className={layout.sectionInfo}>
     <h2 className={`${styles.heading2} text-gradient`}>
         Revolutionize Your Cancer Screening with <br className='sm:block hidden'/> Cutting-Edge Digital Solutions from <span className='text-white'>Saratani</span><span className='text-gradient'>Ai</span>
