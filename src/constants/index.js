@@ -27,23 +27,32 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
-    content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+    title: "Digital mammography",
+    content:"A digital X-ray of the breast that can detect early signs of breast cancer"
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
-    content:
-      "We take proactive steps make sure your information and transactions are secure.",
+    title: "Digital colonoscopy",
+    content:"A non-invasive, virtual examination of the colon that can detect abnormalities and early signs of colon cancer."
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
-    content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+    title: "Digital pathology",
+    content:"The use of digital imaging to analyze tissue samples for cancer diagnosis and treatment."
+  },
+  {
+    id: "feature-4",
+    icon: send,
+    title: "AI-assisted cancer screening and diagnosis",
+    content:"The use of artificial intelligence to improve the accuracy and speed of cancer screening and diagnosis."
+  },
+  {
+    id: "feature-5",
+    icon: send,
+    title: "Data analytics and reporting",
+    content:"The use of data analysis to identify trends and patterns in cancer screening and diagnosis, and to provide insights and recommendations for healthcare providers."
   },
 ];
 
