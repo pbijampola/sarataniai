@@ -28,7 +28,7 @@ const Hero=() =>
         <h1 className='flex-1 font-poppins font-semibold ss:text-[48px] text-[32px] text-white ss:leading-[100px] leading-[75px] w-full'>
         in Africa with Artificial Intelligence
         </h1>
-        <p className={`${Styles.paragraph} mt-5`}> 
+        <p className={`${Styles.paragraph} mt-5 max-w-[470px]`}> 
         At <span className='text-gradient font-poppins font-bold'>Saratani</span><span className='text-white'>Ai</span>, we believe that early detection is key to fighting cancer. That's why we're using artificial intelligence to provide digital cancer screening and diagnosis services in Africa. Our evidence-based solutions are designed to improve the accuracy, speed, and cost-effectiveness of cancer screening, while also engaging the community and stakeholders to advocate for early detection and treatment.
         </p>
       </div>
