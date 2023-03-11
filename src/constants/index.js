@@ -25,12 +25,12 @@ export const navLinks = [
 ];
 
 export const features = [
-  {
-    id: "feature-1",
-    icon: star,
-    title: "Digital mammography",
-    content:"A digital X-ray of the breast that can detect early signs of breast cancer"
-  },
+  // {
+  //   id: "feature-1",
+  //   icon: star,
+  //   title: "Digital mammography",
+  //   content:"A digital X-ray of the breast that can detect early signs of breast cancer"
+  // },
   {
     id: "feature-2",
     icon: shield,
@@ -61,25 +61,24 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+    "I was impressed with how accurate and efficient [AI Startup Name]'s AI-assisted cancer screening and diagnosis was. The technology helped us identify cancer in its early stages, which greatly improved the patient's prognosis.",    name: "Herman Jensen",
+    title: "Oncologist",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+    "Thanks to [AI Startup Name]'s digital pathology services, we were able to quickly and accurately diagnose a patient's cancer. The evidence-based digital solutions provided by the startup are truly cutting-edge",
     name: "Steve Mark",
-    title: "Founder & Leader",
+    title: "Medical Lab Scientist",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+    "As a patient, I was grateful for [AI Startup Name]'s digital mammography services. The non-invasive exam was quick and painless, and the results were available almost immediately. It gave me peace of mind to know that I was being proactive about my breast health.",
     name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    title: "Patient",
     img: people03,
   },
 ];
