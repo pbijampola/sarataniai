@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { apple, bill, google,muhas} from '../assets'
+import { apple, bill, google} from '../assets'
 import style, { layout } from '../style'
 
 const Billing = () => (
@@ -15,7 +15,6 @@ const Billing = () => (
       <div className="flex flex-row flex-wrap sm:mt-10 mt--6">
           <img src={apple} alt="apple_store" className="w-[128px] h-[42px] object-contain mr-5 cursor-pointer" />
           <img src={google} alt="apple_store" className="w-[128px] h-[42px] object-contain  cursor-pointer" />
-          <img src={muhas} alt="apple_store" className="w-[128px] h-[42px] object-contain mr-5 cursor-pointer" />
 
       </div>
     </div>
