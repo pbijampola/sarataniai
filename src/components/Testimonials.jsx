@@ -5,14 +5,15 @@ import FeedbackCard from '../components/FeedbackCard'
 
 const Testimonials =() => 
    (
-    <section id='testimonial' className={`${styles.paddingY} ${styles.flexCenter} flex-col relative`}>
+    <section id='testimonials' className={`${styles.paddingY} ${styles.flexCenter} flex-col relative`}>
       /**TODO */
       <div/>
       <div className='w-full flex justify-between item-center md:flex-row flex-col sm:mb-16 mb-6 relative z-[1]'>
         <h1 className={styles.heading2}>What people are <br className="sm:block hidden" /> saying about us</h1>
         <div className="w-full md:mt-0 mt-6">
             <p className={`${styles.paragraph} text-left max-w-[450px]`}>
-            "We take great pride in the positive feedback we receive from our clients and partners. Here are just a few examples of how <span className='text-gradient font-poppins font-bold'>Saratani</span><span className='text-white'>Ai</span>'s digital healthcare solutions have made a difference in the fight against cancer."
+            "We take great pride in the positive feedback we receive from our clients and partners.
+             Here are just a few evidence of how <span className='text-gradient font-poppins font-bold'>Saratani</span><span className='text-white'>Ai</span>'s digital healthcare solutions have made a difference in the fight against cancer."
             </p>
         </div>
       </div>

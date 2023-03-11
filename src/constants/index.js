@@ -61,14 +61,14 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-    "I was impressed with how accurate and efficient [AI Startup Name]'s AI-assisted cancer screening and diagnosis was. The technology helped us identify cancer in its early stages, which greatly improved the patient's prognosis.",    name: "Herman Jensen",
+    "I was impressed with how accurate and efficient SarataniAi's AI-assisted cancer screening and diagnosis was. The technology helped us identify cancer in its early stages, which greatly improved the patient's prognosis.",    name: "Herman Jensen",
     title: "Oncologist",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-    "Thanks to [AI Startup Name]'s digital pathology services, we were able to quickly and accurately diagnose a patient's cancer. The evidence-based digital solutions provided by the startup are truly cutting-edge",
+    "Thanks to SarataniAi's digital pathology services, we were able to quickly and accurately diagnose a patient's cancer. The evidence-based digital solutions provided by the startup are truly cutting-edge",
     name: "Steve Mark",
     title: "Medical Lab Scientist",
     img: people02,
@@ -76,7 +76,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-    "As a patient, I was grateful for [AI Startup Name]'s digital mammography services. The non-invasive exam was quick and painless, and the results were available almost immediately. It gave me peace of mind to know that I was being proactive about my breast health.",
+    "As a patient, I was grateful for SarataniAi's digital mammography services. The non-invasive exam was quick and painless, and the results were available almost immediately. It gave me peace of mind to know that I was being proactive about my breast health.",
     name: "Kenn Gallagher",
     title: "Patient",
     img: people03,
